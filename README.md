@@ -81,4 +81,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/8a7b29c3-9b62-4864-9a54-d07eb2d0e31b)
 
 ## Result:
-hence the output is verified sucessfully
+hence the output is verified sucessfully.
